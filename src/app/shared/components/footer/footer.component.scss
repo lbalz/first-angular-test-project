@@ -6,9 +6,7 @@ section {
     justify-content: space-around;
     align-items: center;
 
-    >img {
-        height: 48px;
-    }
+    
 
     >a {
         color: white;
@@ -17,6 +15,10 @@ section {
         &:hover {
             color: #9F0908;
             cursor: pointer;
+        }
+
+        >img {
+            height: 48px;
         }
     }
 }
