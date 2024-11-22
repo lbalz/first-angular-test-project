@@ -10,8 +10,9 @@ section {
         height: 48px;
     }
 
-    >span {
+    >a {
         color: white;
+        text-decoration: none;
 
         &:hover {
             color: #9F0908;
